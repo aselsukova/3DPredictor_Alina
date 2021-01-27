@@ -1,0 +1,3 @@
+[submodule "3Dpredictor"]
+	path = 3Dpredictor
+	url = https://github.com/labdevgen/3Dpredictor.git

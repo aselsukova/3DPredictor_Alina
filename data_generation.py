@@ -27,6 +27,7 @@ import pickle
 import datetime
 import configparser
 
+
 file = sys.argv[1]
 input = open(file,'r')
 lines = input.readlines()

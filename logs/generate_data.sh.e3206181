@@ -1,0 +1,225 @@
+03:44:31 __main__: Using input folder /mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/input
+03:44:31 fastaFileReader: Processing file /mnt/storage/home/aselsukova/genomes/references/mm10/mm10.fa
+03:44:31 fastaFileReader: Found chrm chr1
+03:45:09 fastaFileReader: Found chrm chr10
+03:45:35 fastaFileReader: Found chrm chr11
+03:45:59 fastaFileReader: Found chrm chr12
+03:46:22 fastaFileReader: Found chrm chr13
+03:46:46 fastaFileReader: Found chrm chr14
+03:47:11 fastaFileReader: Found chrm chr15
+03:47:32 fastaFileReader: Found chrm chr16
+03:47:51 fastaFileReader: Found chrm chr17
+03:48:10 fastaFileReader: Found chrm chr18
+03:48:28 fastaFileReader: Found chrm chr19
+03:48:35 fastaFileReader: Skipping chrm >chr1_GL456210_random
+03:48:35 fastaFileReader: Found chrm chr1_GL456210_random
+03:48:35 fastaFileReader: Skipping chrm >chr1_GL456211_random
+03:48:35 fastaFileReader: Found chrm chr1_GL456211_random
+03:48:35 fastaFileReader: Skipping chrm >chr1_GL456212_random
+03:48:35 fastaFileReader: Found chrm chr1_GL456212_random
+03:48:35 fastaFileReader: Skipping chrm >chr1_GL456213_random
+03:48:35 fastaFileReader: Found chrm chr1_GL456213_random
+03:48:36 fastaFileReader: Skipping chrm >chr1_GL456221_random
+03:48:36 fastaFileReader: Found chrm chr1_GL456221_random
+03:48:36 fastaFileReader: Found chrm chr2
+03:49:11 fastaFileReader: Found chrm chr3
+03:49:42 fastaFileReader: Found chrm chr4
+03:50:02 fastaFileReader: Skipping chrm >chr4_GL456216_random
+03:50:02 fastaFileReader: Found chrm chr4_GL456216_random
+03:50:02 fastaFileReader: Skipping chrm >chr4_JH584292_random
+03:50:02 fastaFileReader: Found chrm chr4_JH584292_random
+03:50:02 fastaFileReader: Skipping chrm >chr4_GL456350_random
+03:50:02 fastaFileReader: Found chrm chr4_GL456350_random
+03:50:02 fastaFileReader: Skipping chrm >chr4_JH584293_random
+03:50:02 fastaFileReader: Found chrm chr4_JH584293_random
+03:50:02 fastaFileReader: Skipping chrm >chr4_JH584294_random
+03:50:02 fastaFileReader: Found chrm chr4_JH584294_random
+03:50:02 fastaFileReader: Skipping chrm >chr4_JH584295_random
+03:50:02 fastaFileReader: Found chrm chr4_JH584295_random
+03:50:02 fastaFileReader: Found chrm chr5
+03:50:20 fastaFileReader: Skipping chrm >chr5_JH584296_random
+03:50:20 fastaFileReader: Found chrm chr5_JH584296_random
+03:50:21 fastaFileReader: Skipping chrm >chr5_JH584297_random
+03:50:21 fastaFileReader: Found chrm chr5_JH584297_random
+03:50:21 fastaFileReader: Skipping chrm >chr5_JH584298_random
+03:50:21 fastaFileReader: Found chrm chr5_JH584298_random
+03:50:21 fastaFileReader: Skipping chrm >chr5_GL456354_random
+03:50:21 fastaFileReader: Found chrm chr5_GL456354_random
+03:50:21 fastaFileReader: Skipping chrm >chr5_JH584299_random
+03:50:21 fastaFileReader: Found chrm chr5_JH584299_random
+03:50:21 fastaFileReader: Found chrm chr6
+03:50:50 fastaFileReader: Found chrm chr7
+03:51:08 fastaFileReader: Skipping chrm >chr7_GL456219_random
+03:51:08 fastaFileReader: Found chrm chr7_GL456219_random
+03:51:08 fastaFileReader: Found chrm chr8
+03:51:33 fastaFileReader: Found chrm chr9
+03:51:57 fastaFileReader: Found chrm chrM
+03:51:57 fastaFileReader: Found chrm chrX
+03:52:18 fastaFileReader: Skipping chrm >chrX_GL456233_random
+03:52:18 fastaFileReader: Found chrm chrX_GL456233_random
+03:52:19 fastaFileReader: Found chrm chrY
+03:52:30 fastaFileReader: Skipping chrm >chrY_JH584300_random
+03:52:30 fastaFileReader: Found chrm chrY_JH584300_random
+03:52:30 fastaFileReader: Skipping chrm >chrY_JH584301_random
+03:52:30 fastaFileReader: Found chrm chrY_JH584301_random
+03:52:30 fastaFileReader: Skipping chrm >chrY_JH584302_random
+03:52:30 fastaFileReader: Found chrm chrY_JH584302_random
+03:52:30 fastaFileReader: Skipping chrm >chrY_JH584303_random
+03:52:30 fastaFileReader: Found chrm chrY_JH584303_random
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456239
+03:52:30 fastaFileReader: Found chrm chrUn_GL456239
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456367
+03:52:30 fastaFileReader: Found chrm chrUn_GL456367
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456378
+03:52:30 fastaFileReader: Found chrm chrUn_GL456378
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456381
+03:52:30 fastaFileReader: Found chrm chrUn_GL456381
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456382
+03:52:30 fastaFileReader: Found chrm chrUn_GL456382
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456383
+03:52:30 fastaFileReader: Found chrm chrUn_GL456383
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456385
+03:52:30 fastaFileReader: Found chrm chrUn_GL456385
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456390
+03:52:30 fastaFileReader: Found chrm chrUn_GL456390
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456392
+03:52:30 fastaFileReader: Found chrm chrUn_GL456392
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456393
+03:52:30 fastaFileReader: Found chrm chrUn_GL456393
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456394
+03:52:30 fastaFileReader: Found chrm chrUn_GL456394
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456359
+03:52:30 fastaFileReader: Found chrm chrUn_GL456359
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456360
+03:52:30 fastaFileReader: Found chrm chrUn_GL456360
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456396
+03:52:30 fastaFileReader: Found chrm chrUn_GL456396
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456372
+03:52:30 fastaFileReader: Found chrm chrUn_GL456372
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456387
+03:52:30 fastaFileReader: Found chrm chrUn_GL456387
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456389
+03:52:30 fastaFileReader: Found chrm chrUn_GL456389
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456370
+03:52:30 fastaFileReader: Found chrm chrUn_GL456370
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456379
+03:52:30 fastaFileReader: Found chrm chrUn_GL456379
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456366
+03:52:30 fastaFileReader: Found chrm chrUn_GL456366
+03:52:30 fastaFileReader: Skipping chrm >chrUn_GL456368
+03:52:30 fastaFileReader: Found chrm chrUn_GL456368
+03:52:30 fastaFileReader: Skipping chrm >chrUn_JH584304
+03:52:30 fastaFileReader: Found chrm chrUn_JH584304
+03:52:30 shared: Saving dump to the file /mnt/storage/home/aselsukova/genomes/references/mm10/mm10.fa.mm10.fa['A', 'C', 'G', 'N', 'T', 'a', 'c', 'g', 'n', 't']default_chr_name_ranamer1
+03:52:35 hicFileReader: Processing chrm chr1
+03:52:35 hicFileReader: Failed to find chr chr1; trying to find 1
+03:52:42 hicFileReader: Failed to find chr chr1in hic file!
+03:52:42 hicFileReader: Load time: 0:00:06.648377
+03:52:43 hicFileReader: Transpose time: 0:00:00.735575
+03:52:43 hicFileReader: DF conversion time: 0:00:00.000646
+03:52:43 numexpr.utils: Note: NumExpr detected 24 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+03:53:09 hicFileReader: Magic coefficient calc time: 0:00:26.515603
+03:53:09 hicFileReader: Total hic load time: 0:00:34.106058
+03:53:09 hicFileReader: Processing chrm chr10
+03:53:09 hicFileReader: Failed to find chr chr10; trying to find 10
+03:53:10 hicFileReader: Failed to find chr chr10in hic file!
+03:53:10 hicFileReader: Load time: 0:00:00.374465
+03:53:10 hicFileReader: Transpose time: 0:00:00.021597
+03:53:10 hicFileReader: DF conversion time: 0:00:00.000514
+03:53:12 hicFileReader: Magic coefficient calc time: 0:00:02.597226
+03:53:12 hicFileReader: Total hic load time: 0:00:03.011668
+03:53:12 hicFileReader: Processing chrm chr11
+03:53:12 hicFileReader: Failed to find chr chr11; trying to find 11
+03:53:13 hicFileReader: Failed to find chr chr11in hic file!
+03:53:13 hicFileReader: Load time: 0:00:00.379504
+03:53:13 hicFileReader: Transpose time: 0:00:00.023579
+03:53:13 hicFileReader: DF conversion time: 0:00:00.000459
+03:53:15 hicFileReader: Magic coefficient calc time: 0:00:02.654175
+03:53:15 hicFileReader: Total hic load time: 0:00:03.077273
+03:53:15 hicFileReader: Processing chrm chr12
+03:53:15 hicFileReader: Failed to find chr chr12; trying to find 12
+03:53:16 hicFileReader: Failed to find chr chr12in hic file!
+03:53:16 hicFileReader: Load time: 0:00:00.367440
+03:53:16 hicFileReader: Transpose time: 0:00:00.019951
+03:53:16 hicFileReader: DF conversion time: 0:00:00.000490
+03:53:18 hicFileReader: Magic coefficient calc time: 0:00:02.534166
+03:53:18 hicFileReader: Total hic load time: 0:00:02.939695
+03:53:18 hicFileReader: Processing chrm chr13
+03:53:18 hicFileReader: Failed to find chr chr13; trying to find 13
+03:53:19 hicFileReader: Failed to find chr chr13in hic file!
+03:53:19 hicFileReader: Load time: 0:00:00.339946
+03:53:19 hicFileReader: Transpose time: 0:00:00.019719
+03:53:19 hicFileReader: DF conversion time: 0:00:00.000490
+03:53:21 hicFileReader: Magic coefficient calc time: 0:00:02.553172
+03:53:21 hicFileReader: Total hic load time: 0:00:02.930604
+03:53:21 hicFileReader: Processing chrm chr14
+03:53:21 hicFileReader: Failed to find chr chr14; trying to find 14
+03:53:22 hicFileReader: Failed to find chr chr14in hic file!
+03:53:22 hicFileReader: Load time: 0:00:00.328963
+03:53:22 hicFileReader: Transpose time: 0:00:00.018050
+03:53:22 hicFileReader: DF conversion time: 0:00:00.000472
+03:53:24 hicFileReader: Magic coefficient calc time: 0:00:02.482962
+03:53:24 hicFileReader: Total hic load time: 0:00:02.847215
+03:53:24 hicFileReader: Processing chrm chr15
+03:53:24 hicFileReader: Failed to find chr chr15; trying to find 15
+03:53:25 hicFileReader: Failed to find chr chr15in hic file!
+03:53:25 hicFileReader: Load time: 0:00:00.299644
+03:53:25 hicFileReader: Transpose time: 0:00:00.015932
+03:53:25 hicFileReader: DF conversion time: 0:00:00.000466
+03:53:27 hicFileReader: Magic coefficient calc time: 0:00:02.437797
+03:53:27 hicFileReader: Total hic load time: 0:00:02.769241
+03:53:27 hicFileReader: Processing chrm chr16
+03:53:27 hicFileReader: Failed to find chr chr16; trying to find 16
+03:53:27 hicFileReader: Failed to find chr chr16in hic file!
+03:53:27 hicFileReader: Load time: 0:00:00.287206
+03:53:27 hicFileReader: Transpose time: 0:00:00.014453
+03:53:27 hicFileReader: DF conversion time: 0:00:00.000424
+/mnt/storage/home/aselsukova/distributives/anaconda_ctale/lib/python3.8/site-packages/numpy/core/_methods.py:216: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/mnt/storage/home/aselsukova/distributives/anaconda_ctale/lib/python3.8/site-packages/numpy/core/_methods.py:185: RuntimeWarning: invalid value encountered in true_divide
+  arrmean = um.true_divide(
+/mnt/storage/home/aselsukova/distributives/anaconda_ctale/lib/python3.8/site-packages/numpy/core/_methods.py:209: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+/mnt/storage/home/aselsukova/distributives/anaconda_ctale/lib/python3.8/site-packages/numpy/lib/function_base.py:393: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis)
+/mnt/storage/home/aselsukova/distributives/anaconda_ctale/lib/python3.8/site-packages/numpy/core/_methods.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+03:53:30 hicFileReader: Magic coefficient calc time: 0:00:02.529300
+03:53:30 hicFileReader: Total hic load time: 0:00:02.847296
+03:53:30 hicFileReader: Processing chrm chr17
+03:53:30 hicFileReader: Failed to find chr chr17; trying to find 17
+03:53:30 hicFileReader: Failed to find chr chr17in hic file!
+03:53:30 hicFileReader: Load time: 0:00:00.306466
+03:53:30 hicFileReader: Transpose time: 0:00:00.016591
+03:53:30 hicFileReader: DF conversion time: 0:00:00.000511
+03:53:33 hicFileReader: Magic coefficient calc time: 0:00:02.642063
+03:53:33 hicFileReader: Total hic load time: 0:00:02.982254
+03:53:33 hicFileReader: Processing chrm chr18
+03:53:33 hicFileReader: Failed to find chr chr18; trying to find 18
+03:53:33 hicFileReader: Failed to find chr chr18in hic file!
+03:53:33 hicFileReader: Load time: 0:00:00.302667
+03:53:33 hicFileReader: Transpose time: 0:00:00.016077
+03:53:33 hicFileReader: DF conversion time: 0:00:00.000536
+03:53:36 hicFileReader: Magic coefficient calc time: 0:00:02.736653
+03:53:36 hicFileReader: Total hic load time: 0:00:03.071877
+03:53:36 hicFileReader: Processing chrm chr1_GL456221_random
+03:53:36 hicFileReader: Failed to find chr chr1_GL456221_random; trying to find 1_GL456221_random
+Traceback (most recent call last):
+  File "/mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/nn/source/hicFileReader.py", line 81, in get_data_straw006
+    return straw.straw(self.normalization, self.fname,
+  File "/mnt/storage/home/aselsukova/distributives/anaconda_ctale/lib/python3.8/site-packages/straw/straw.py", line 471, in straw
+    master=list1[0]
+TypeError: 'int' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "data_generation.py", line 81, in <module>
+    params.contacts_reader = params.contacts_reader.read_data(fill_empty_contacts=fill_empty_contacts, noDump=False)
+  File "/mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/nn/source/hicFileReader.py", line 149, in read_data
+    result = get_data_straw()
+  File "/mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/nn/source/hicFileReader.py", line 89, in get_data_straw006
+    return straw.straw(self.normalization, self.fname,
+  File "/mnt/storage/home/aselsukova/distributives/anaconda_ctale/lib/python3.8/site-packages/straw/straw.py", line 471, in straw
+    master=list1[0]
+TypeError: 'int' object is not subscriptable

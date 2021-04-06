@@ -1,0 +1,13 @@
+chr_num 1
+input_folder /mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/input
+output_folder /mnt/storage/home/aselsukova/3DPredictor_Alina/output_test/
+cell_type E11.5
+binsize 5000
+max_cpus 6
+start 70945000
+end 81010000
+CTCF_file_name overlap.conservative_peak.regionPeak
+RNA_file_name none
+validate_chrs 6
+hic_name inter.hic
+path_to_genome /mnt/storage/home/aselsukova/genomes/references/mm10/mm10.fa

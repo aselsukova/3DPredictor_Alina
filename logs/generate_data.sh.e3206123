@@ -1,0 +1,13 @@
+03:27:21 __main__: Using input folder /mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/input
+03:27:21 fastaFileReader: Processing file /mnt/storage/home/aselsukova/genomes/references/mm10/mm10.fa
+03:27:21 fastaFileReader: Found chrm chr1
+Traceback (most recent call last):
+  File "data_generation.py", line 77, in <module>
+    genome = genome.read_data()
+  File "/mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/nn/source/fastaFileReader.py", line 197, in read_data
+    self.read_file(i)
+  File "/mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/nn/source/fastaFileReader.py", line 61, in read_file
+    add_chrm(chrm,seq)
+  File "/mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/nn/source/fastaFileReader.py", line 42, in add_chrm
+    assert len(seq) > 0
+AssertionError

@@ -1,0 +1,10 @@
+03:30:51 __main__: Using input folder /mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/input
+03:30:51 fastaFileReader: Processing file /mnt/storage/home/aselsukova/genomes/references/mm10/mm10.fa
+Traceback (most recent call last):
+  File "data_generation.py", line 77, in <module>
+    genome = genome.read_data()
+  File "/mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/nn/source/fastaFileReader.py", line 201, in read_data
+    self.read_file(i)
+  File "/mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/nn/source/fastaFileReader.py", line 65, in read_file
+    logging.getLogger(__name__).info("Skipping chrm "+chrm)
+TypeError: can only concatenate str (not "NoneType") to str

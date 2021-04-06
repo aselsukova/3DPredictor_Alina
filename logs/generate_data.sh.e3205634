@@ -1,0 +1,122 @@
+02:38:03 __main__: Using input folder /mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/input
+02:38:03 shared: Loading dump from the file/mnt/storage/home/aselsukova/genomes/references/mm10/mm10.fa.mm10.fa['A', 'C', 'G', 'N', 'T', 'a', 'c', 'g', 'n', 't']default_chr_name_ranamer1
+02:38:04 hicFileReader: Processing chrm chr1
+02:38:04 hicFileReader: Failed to find chr chr1; trying to find 1
+02:38:09 hicFileReader: Failed to find chr chr1in hic file!
+02:38:09 hicFileReader: Load time: 0:00:05.277313
+02:38:10 hicFileReader: Transpose time: 0:00:00.694189
+02:38:10 hicFileReader: DF conversion time: 0:00:00.002983
+02:38:10 numexpr.utils: Note: NumExpr detected 24 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+02:38:29 hicFileReader: Magic coefficient calc time: 0:00:18.888297
+02:38:29 hicFileReader: Total hic load time: 0:00:24.985593
+02:38:29 hicFileReader: Processing chrm chr10
+02:38:29 hicFileReader: Failed to find chr chr10; trying to find 10
+02:38:29 hicFileReader: Failed to find chr chr10in hic file!
+02:38:29 hicFileReader: Load time: 0:00:00.316363
+02:38:29 hicFileReader: Transpose time: 0:00:00.018580
+02:38:29 hicFileReader: DF conversion time: 0:00:00.000467
+02:38:32 hicFileReader: Magic coefficient calc time: 0:00:02.411448
+02:38:32 hicFileReader: Total hic load time: 0:00:02.764311
+02:38:32 hicFileReader: Processing chrm chr11
+02:38:32 hicFileReader: Failed to find chr chr11; trying to find 11
+02:38:32 hicFileReader: Failed to find chr chr11in hic file!
+02:38:32 hicFileReader: Load time: 0:00:00.321597
+02:38:32 hicFileReader: Transpose time: 0:00:00.020908
+02:38:32 hicFileReader: DF conversion time: 0:00:00.000434
+02:38:35 hicFileReader: Magic coefficient calc time: 0:00:02.417450
+02:38:35 hicFileReader: Total hic load time: 0:00:02.777390
+02:38:35 hicFileReader: Processing chrm chr12
+02:38:35 hicFileReader: Failed to find chr chr12; trying to find 12
+02:38:35 hicFileReader: Failed to find chr chr12in hic file!
+02:38:35 hicFileReader: Load time: 0:00:00.293735
+02:38:35 hicFileReader: Transpose time: 0:00:00.017690
+02:38:35 hicFileReader: DF conversion time: 0:00:00.000433
+02:38:37 hicFileReader: Magic coefficient calc time: 0:00:02.306474
+02:38:37 hicFileReader: Total hic load time: 0:00:02.633290
+02:38:37 hicFileReader: Processing chrm chr13
+02:38:37 hicFileReader: Failed to find chr chr13; trying to find 13
+02:38:38 hicFileReader: Failed to find chr chr13in hic file!
+02:38:38 hicFileReader: Load time: 0:00:00.287838
+02:38:38 hicFileReader: Transpose time: 0:00:00.017931
+02:38:38 hicFileReader: DF conversion time: 0:00:00.000530
+02:38:40 hicFileReader: Magic coefficient calc time: 0:00:02.315824
+02:38:40 hicFileReader: Total hic load time: 0:00:02.638673
+02:38:40 hicFileReader: Processing chrm chr14
+02:38:40 hicFileReader: Failed to find chr chr14; trying to find 14
+02:38:40 hicFileReader: Failed to find chr chr14in hic file!
+02:38:40 hicFileReader: Load time: 0:00:00.283740
+02:38:40 hicFileReader: Transpose time: 0:00:00.016188
+02:38:40 hicFileReader: DF conversion time: 0:00:00.000455
+02:38:42 hicFileReader: Magic coefficient calc time: 0:00:02.297312
+02:38:43 hicFileReader: Total hic load time: 0:00:02.612223
+02:38:43 hicFileReader: Processing chrm chr15
+02:38:43 hicFileReader: Failed to find chr chr15; trying to find 15
+02:38:43 hicFileReader: Failed to find chr chr15in hic file!
+02:38:43 hicFileReader: Load time: 0:00:00.258756
+02:38:43 hicFileReader: Transpose time: 0:00:00.013849
+02:38:43 hicFileReader: DF conversion time: 0:00:00.000427
+02:38:45 hicFileReader: Magic coefficient calc time: 0:00:02.306578
+02:38:45 hicFileReader: Total hic load time: 0:00:02.593920
+02:38:45 hicFileReader: Processing chrm chr16
+02:38:45 hicFileReader: Failed to find chr chr16; trying to find 16
+02:38:45 hicFileReader: Failed to find chr chr16in hic file!
+02:38:45 hicFileReader: Load time: 0:00:00.248338
+02:38:45 hicFileReader: Transpose time: 0:00:00.014173
+02:38:45 hicFileReader: DF conversion time: 0:00:00.000479
+/mnt/storage/home/aselsukova/distributives/anaconda_ctale/lib/python3.8/site-packages/numpy/core/_methods.py:216: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/mnt/storage/home/aselsukova/distributives/anaconda_ctale/lib/python3.8/site-packages/numpy/core/_methods.py:185: RuntimeWarning: invalid value encountered in true_divide
+  arrmean = um.true_divide(
+/mnt/storage/home/aselsukova/distributives/anaconda_ctale/lib/python3.8/site-packages/numpy/core/_methods.py:209: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+/mnt/storage/home/aselsukova/distributives/anaconda_ctale/lib/python3.8/site-packages/numpy/lib/function_base.py:393: RuntimeWarning: Mean of empty slice.
+  avg = a.mean(axis)
+/mnt/storage/home/aselsukova/distributives/anaconda_ctale/lib/python3.8/site-packages/numpy/core/_methods.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+02:38:48 hicFileReader: Magic coefficient calc time: 0:00:02.279141
+02:38:48 hicFileReader: Total hic load time: 0:00:02.554861
+02:38:48 hicFileReader: Processing chrm chr17
+02:38:48 hicFileReader: Failed to find chr chr17; trying to find 17
+02:38:48 hicFileReader: Failed to find chr chr17in hic file!
+02:38:48 hicFileReader: Load time: 0:00:00.245061
+02:38:48 hicFileReader: Transpose time: 0:00:00.013433
+02:38:48 hicFileReader: DF conversion time: 0:00:00.000278
+02:38:50 hicFileReader: Magic coefficient calc time: 0:00:02.221644
+02:38:50 hicFileReader: Total hic load time: 0:00:02.493190
+02:38:50 hicFileReader: Processing chrm chr18
+02:38:50 hicFileReader: Failed to find chr chr18; trying to find 18
+02:38:50 hicFileReader: Failed to find chr chr18in hic file!
+02:38:50 hicFileReader: Load time: 0:00:00.237152
+02:38:50 hicFileReader: Transpose time: 0:00:00.012602
+02:38:50 hicFileReader: DF conversion time: 0:00:00.000295
+02:38:53 hicFileReader: Magic coefficient calc time: 0:00:02.253172
+02:38:53 hicFileReader: Total hic load time: 0:00:02.516630
+02:38:53 hicFileReader: Processing chrm chr19
+02:38:53 hicFileReader: Failed to find chr chr19; trying to find 19
+02:38:53 hicFileReader: Failed to find chr chr19in hic file!
+02:38:53 hicFileReader: Load time: 0:00:00.184930
+02:38:53 hicFileReader: Transpose time: 0:00:00.008163
+02:38:53 hicFileReader: DF conversion time: 0:00:00.000288
+02:38:55 hicFileReader: Magic coefficient calc time: 0:00:02.179049
+02:38:55 hicFileReader: Total hic load time: 0:00:02.382992
+02:38:55 hicFileReader: Processing chrm chr1_GL456210_random
+02:38:55 hicFileReader: Failed to find chr chr1_GL456210_random; trying to find 1_GL456210_random
+Traceback (most recent call last):
+  File "/mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/nn/source/hicFileReader.py", line 81, in get_data_straw006
+    return straw.straw(self.normalization, self.fname,
+  File "/mnt/storage/home/aselsukova/distributives/anaconda_ctale/lib/python3.8/site-packages/straw/straw.py", line 471, in straw
+    master=list1[0]
+TypeError: 'int' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "data_generation.py", line 81, in <module>
+    params.contacts_reader = params.contacts_reader.read_data(fill_empty_contacts=fill_empty_contacts, noDump=False)
+  File "/mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/nn/source/hicFileReader.py", line 149, in read_data
+    result = get_data_straw()
+  File "/mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/nn/source/hicFileReader.py", line 89, in get_data_straw006
+    return straw.straw(self.normalization, self.fname,
+  File "/mnt/storage/home/aselsukova/distributives/anaconda_ctale/lib/python3.8/site-packages/straw/straw.py", line 471, in straw
+    master=list1[0]
+TypeError: 'int' object is not subscriptable

@@ -1,0 +1,71 @@
+02:03:30 __main__: Using input folder /mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/input
+02:03:30 shared: Loading dump from the file/mnt/storage/home/aselsukova/genomes/references/mm10/mm10.fa.mm10.fa['A', 'C', 'G', 'N', 'T', 'a', 'c', 'g', 'n', 't']default_chr_name_ranamer1
+02:03:37 hicFileReader: Processing chrm chr1
+02:03:37 hicFileReader: Failed to find chr chr1; trying to find 1
+02:03:42 hicFileReader: Failed to find chr chr1in hic file!
+02:03:42 hicFileReader: Load time: 0:00:05.337183
+02:03:43 hicFileReader: Transpose time: 0:00:00.655021
+02:03:43 hicFileReader: DF conversion time: 0:00:00.002494
+02:03:43 numexpr.utils: Note: NumExpr detected 24 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+02:04:01 hicFileReader: Magic coefficient calc time: 0:00:18.264157
+02:04:01 hicFileReader: Total hic load time: 0:00:24.494699
+02:04:01 hicFileReader: Processing chrm chr10
+02:04:01 hicFileReader: Failed to find chr chr10; trying to find 10
+02:04:02 hicFileReader: Failed to find chr chr10in hic file!
+02:04:02 hicFileReader: Load time: 0:00:00.330040
+02:04:02 hicFileReader: Transpose time: 0:00:00.018377
+02:04:02 hicFileReader: DF conversion time: 0:00:00.000397
+02:04:04 hicFileReader: Magic coefficient calc time: 0:00:02.328004
+02:04:04 hicFileReader: Total hic load time: 0:00:02.693956
+02:04:04 hicFileReader: Processing chrm chr11
+02:04:04 hicFileReader: Failed to find chr chr11; trying to find 11
+02:04:05 hicFileReader: Failed to find chr chr11in hic file!
+02:04:05 hicFileReader: Load time: 0:00:00.341408
+02:04:05 hicFileReader: Transpose time: 0:00:00.020081
+02:04:05 hicFileReader: DF conversion time: 0:00:00.000364
+02:04:07 hicFileReader: Magic coefficient calc time: 0:00:02.381706
+02:04:07 hicFileReader: Total hic load time: 0:00:02.760152
+02:04:07 hicFileReader: Processing chrm chr12
+02:04:07 hicFileReader: Failed to find chr chr12; trying to find 12
+02:04:07 hicFileReader: Failed to find chr chr12in hic file!
+02:04:07 hicFileReader: Load time: 0:00:00.316995
+02:04:07 hicFileReader: Transpose time: 0:00:00.017027
+02:04:07 hicFileReader: DF conversion time: 0:00:00.000359
+02:04:10 hicFileReader: Magic coefficient calc time: 0:00:02.327713
+02:04:10 hicFileReader: Total hic load time: 0:00:02.677707
+02:04:10 hicFileReader: Processing chrm chr13
+02:04:10 hicFileReader: Failed to find chr chr13; trying to find 13
+02:04:10 hicFileReader: Failed to find chr chr13in hic file!
+02:04:10 hicFileReader: Load time: 0:00:00.301878
+02:04:10 hicFileReader: Transpose time: 0:00:00.016596
+02:04:10 hicFileReader: DF conversion time: 0:00:00.000330
+02:04:12 hicFileReader: Magic coefficient calc time: 0:00:02.375792
+02:04:12 hicFileReader: Total hic load time: 0:00:02.709471
+02:04:12 hicFileReader: Processing chrm chr14
+02:04:12 hicFileReader: Failed to find chr chr14; trying to find 14
+02:04:13 hicFileReader: Failed to find chr chr14in hic file!
+02:04:13 hicFileReader: Load time: 0:00:00.293776
+02:04:13 hicFileReader: Transpose time: 0:00:00.015803
+02:04:13 hicFileReader: DF conversion time: 0:00:00.000349
+02:04:15 hicFileReader: Magic coefficient calc time: 0:00:02.365970
+02:04:15 hicFileReader: Total hic load time: 0:00:02.690986
+02:04:15 hicFileReader: Processing chrm chr15
+02:04:15 hicFileReader: Failed to find chr chr15; trying to find 15
+02:04:15 hicFileReader: Failed to find chr chr15in hic file!
+02:04:15 hicFileReader: Load time: 0:00:00.265974
+02:04:15 hicFileReader: Transpose time: 0:00:00.013623
+02:04:15 hicFileReader: DF conversion time: 0:00:00.000296
+02:04:18 hicFileReader: Magic coefficient calc time: 0:00:02.330425
+02:04:18 hicFileReader: Total hic load time: 0:00:02.623885
+02:04:18 hicFileReader: Processing chrm chr16
+02:04:18 hicFileReader: Failed to find chr chr16; trying to find 16
+02:04:18 hicFileReader: Failed to find chr chr16in hic file!
+02:04:18 hicFileReader: Load time: 0:00:00.254559
+02:04:18 hicFileReader: Transpose time: 0:00:00.012769
+02:04:18 hicFileReader: DF conversion time: 0:00:00.000284
+Traceback (most recent call last):
+  File "data_generation.py", line 81, in <module>
+    params.contacts_reader = params.contacts_reader.read_data(fill_empty_contacts=fill_empty_contacts, noDump=False)
+  File "/mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/nn/source/hicFileReader.py", line 184, in read_data
+    assert len(s) >= len(subsample) / 2
+AssertionError

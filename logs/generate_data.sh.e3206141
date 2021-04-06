@@ -1,0 +1,121 @@
+03:33:21 __main__: Using input folder /mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/input
+03:33:21 fastaFileReader: Processing file /mnt/storage/home/aselsukova/genomes/references/mm10/mm10.fa
+03:33:21 fastaFileReader: Skipping chrm >chr1
+03:33:21 fastaFileReader: Found chrm chr1
+03:33:44 fastaFileReader: Skipping chrm >chr10
+03:33:44 fastaFileReader: Found chrm chr10
+03:34:01 fastaFileReader: Skipping chrm >chr11
+03:34:01 fastaFileReader: Found chrm chr11
+03:34:16 fastaFileReader: Skipping chrm >chr12
+03:34:16 fastaFileReader: Found chrm chr12
+03:34:30 fastaFileReader: Skipping chrm >chr13
+03:34:30 fastaFileReader: Found chrm chr13
+03:34:44 fastaFileReader: Skipping chrm >chr14
+03:34:44 fastaFileReader: Found chrm chr14
+03:34:58 fastaFileReader: Skipping chrm >chr15
+03:34:58 fastaFileReader: Found chrm chr15
+03:35:11 fastaFileReader: Skipping chrm >chr16
+03:35:11 fastaFileReader: Found chrm chr16
+03:35:23 fastaFileReader: Skipping chrm >chr17
+03:35:23 fastaFileReader: Found chrm chr17
+03:35:34 fastaFileReader: Skipping chrm >chr18
+03:35:34 fastaFileReader: Found chrm chr18
+03:35:44 fastaFileReader: Skipping chrm >chr19
+03:35:44 fastaFileReader: Found chrm chr19
+03:35:56 fastaFileReader: Found chrm chr1_GL456210_random
+03:35:56 fastaFileReader: Found chrm chr1_GL456211_random
+03:35:56 fastaFileReader: Found chrm chr1_GL456212_random
+03:35:56 fastaFileReader: Found chrm chr1_GL456213_random
+03:35:56 fastaFileReader: Found chrm chr1_GL456221_random
+03:35:56 fastaFileReader: Skipping chrm >chr2
+03:35:56 fastaFileReader: Found chrm chr2
+03:36:18 fastaFileReader: Skipping chrm >chr3
+03:36:18 fastaFileReader: Found chrm chr3
+03:36:37 fastaFileReader: Skipping chrm >chr4
+03:36:37 fastaFileReader: Found chrm chr4
+03:37:06 fastaFileReader: Found chrm chr4_GL456216_random
+03:37:06 fastaFileReader: Found chrm chr4_JH584292_random
+03:37:06 fastaFileReader: Found chrm chr4_GL456350_random
+03:37:07 fastaFileReader: Found chrm chr4_JH584293_random
+03:37:07 fastaFileReader: Found chrm chr4_JH584294_random
+03:37:07 fastaFileReader: Found chrm chr4_JH584295_random
+03:37:07 fastaFileReader: Skipping chrm >chr5
+03:37:07 fastaFileReader: Found chrm chr5
+03:37:35 fastaFileReader: Found chrm chr5_JH584296_random
+03:37:36 fastaFileReader: Found chrm chr5_JH584297_random
+03:37:36 fastaFileReader: Found chrm chr5_JH584298_random
+03:37:36 fastaFileReader: Found chrm chr5_GL456354_random
+03:37:36 fastaFileReader: Found chrm chr5_JH584299_random
+03:37:36 fastaFileReader: Skipping chrm >chr6
+03:37:36 fastaFileReader: Found chrm chr6
+03:37:54 fastaFileReader: Skipping chrm >chr7
+03:37:54 fastaFileReader: Found chrm chr7
+03:38:21 fastaFileReader: Found chrm chr7_GL456219_random
+03:38:21 fastaFileReader: Skipping chrm >chr8
+03:38:21 fastaFileReader: Found chrm chr8
+03:38:37 fastaFileReader: Skipping chrm >chr9
+03:38:37 fastaFileReader: Found chrm chr9
+03:38:52 fastaFileReader: Skipping chrm >chrM
+03:38:52 fastaFileReader: Found chrm chrM
+03:38:52 fastaFileReader: Skipping chrm >chrX
+03:38:52 fastaFileReader: Found chrm chrX
+03:39:24 fastaFileReader: Found chrm chrX_GL456233_random
+03:39:25 fastaFileReader: Skipping chrm >chrY
+03:39:25 fastaFileReader: Found chrm chrY
+03:39:42 fastaFileReader: Found chrm chrY_JH584300_random
+03:39:43 fastaFileReader: Found chrm chrY_JH584301_random
+03:39:43 fastaFileReader: Found chrm chrY_JH584302_random
+03:39:43 fastaFileReader: Found chrm chrY_JH584303_random
+03:39:43 fastaFileReader: Found chrm chrUn_GL456239
+03:39:43 fastaFileReader: Found chrm chrUn_GL456367
+03:39:43 fastaFileReader: Found chrm chrUn_GL456378
+03:39:43 fastaFileReader: Found chrm chrUn_GL456381
+03:39:43 fastaFileReader: Found chrm chrUn_GL456382
+03:39:43 fastaFileReader: Found chrm chrUn_GL456383
+03:39:43 fastaFileReader: Found chrm chrUn_GL456385
+03:39:43 fastaFileReader: Found chrm chrUn_GL456390
+03:39:43 fastaFileReader: Found chrm chrUn_GL456392
+03:39:43 fastaFileReader: Found chrm chrUn_GL456393
+03:39:43 fastaFileReader: Found chrm chrUn_GL456394
+03:39:43 fastaFileReader: Found chrm chrUn_GL456359
+03:39:43 fastaFileReader: Found chrm chrUn_GL456360
+03:39:43 fastaFileReader: Found chrm chrUn_GL456396
+03:39:43 fastaFileReader: Found chrm chrUn_GL456372
+03:39:43 fastaFileReader: Found chrm chrUn_GL456387
+03:39:43 fastaFileReader: Found chrm chrUn_GL456389
+03:39:43 fastaFileReader: Found chrm chrUn_GL456370
+03:39:43 fastaFileReader: Found chrm chrUn_GL456379
+03:39:43 fastaFileReader: Found chrm chrUn_GL456366
+03:39:43 fastaFileReader: Found chrm chrUn_GL456368
+03:39:43 fastaFileReader: Found chrm chrUn_JH584304
+03:39:43 shared: Saving dump to the file /mnt/storage/home/aselsukova/genomes/references/mm10/mm10.fa.mm10.fa['A', 'C', 'G', 'N', 'T', 'a', 'c', 'g', 'n', 't']default_chr_name_ranamer1
+03:39:45 hicFileReader: Processing chrm chr19
+03:39:45 hicFileReader: Failed to find chr chr19; trying to find 19
+03:39:46 hicFileReader: Failed to find chr chr19in hic file!
+03:39:46 hicFileReader: Load time: 0:00:00.485356
+03:39:46 hicFileReader: Transpose time: 0:00:00.010181
+03:39:46 hicFileReader: DF conversion time: 0:00:00.000704
+03:39:46 numexpr.utils: Note: NumExpr detected 24 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+03:39:48 hicFileReader: Magic coefficient calc time: 0:00:02.872916
+03:39:49 hicFileReader: Total hic load time: 0:00:03.650145
+03:39:49 hicFileReader: Processing chrm chr1_GL456210_random
+03:39:49 hicFileReader: Failed to find chr chr1_GL456210_random; trying to find 1_GL456210_random
+Traceback (most recent call last):
+  File "/mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/nn/source/hicFileReader.py", line 81, in get_data_straw006
+    return straw.straw(self.normalization, self.fname,
+  File "/mnt/storage/home/aselsukova/distributives/anaconda_ctale/lib/python3.8/site-packages/straw/straw.py", line 471, in straw
+    master=list1[0]
+TypeError: 'int' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "data_generation.py", line 81, in <module>
+    params.contacts_reader = params.contacts_reader.read_data(fill_empty_contacts=fill_empty_contacts, noDump=False)
+  File "/mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/nn/source/hicFileReader.py", line 149, in read_data
+    result = get_data_straw()
+  File "/mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/nn/source/hicFileReader.py", line 89, in get_data_straw006
+    return straw.straw(self.normalization, self.fname,
+  File "/mnt/storage/home/aselsukova/distributives/anaconda_ctale/lib/python3.8/site-packages/straw/straw.py", line 471, in straw
+    master=list1[0]
+TypeError: 'int' object is not subscriptable

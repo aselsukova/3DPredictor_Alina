@@ -1,0 +1,21 @@
+03:06:36 __main__: Using input folder /mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/input
+03:06:36 fastaFileReader: Processing file /mnt/storage/home/aselsukova/genomes/references/mm10/mm10.fa
+03:06:36 fastaFileReader: Found chrm chr1
+03:07:15 fastaFileReader: Found chrm chr10
+03:07:42 fastaFileReader: Found chrm chr11
+03:08:06 fastaFileReader: Found chrm chr12
+03:08:30 fastaFileReader: Found chrm chr13
+03:08:54 fastaFileReader: Found chrm chr14
+03:09:19 fastaFileReader: Found chrm chr15
+03:09:40 fastaFileReader: Found chrm chr16
+03:09:59 fastaFileReader: Found chrm chr17
+03:10:18 fastaFileReader: Found chrm chr18
+03:10:36 fastaFileReader: Found chrm chr19
+Traceback (most recent call last):
+  File "data_generation.py", line 77, in <module>
+    genome = genome.read_data()
+  File "/mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/nn/source/fastaFileReader.py", line 197, in read_data
+    self.read_file(i)
+  File "/mnt/storage/home/aselsukova/3DPredictor_Alina/3Dpredictor/nn/source/fastaFileReader.py", line 88, in read_file
+    seq.append(self.converter[temp])
+KeyError: '>'
